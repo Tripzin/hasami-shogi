@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hasami-shogi/precache-manifest.b69faba36883b452d6aa432b33b28ea0.js"
+  "/hasami-shogi/precache-manifest.d7edd20434d45c3d55be7976198988cf.js"
 );
 
 self.addEventListener('message', (event) => {

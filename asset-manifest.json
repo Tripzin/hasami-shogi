@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/hasami-shogi/static/css/main.d1b05096.chunk.css",
-    "main.js": "/hasami-shogi/static/js/main.a20fd110.chunk.js",
-    "main.js.map": "/hasami-shogi/static/js/main.a20fd110.chunk.js.map",
+    "main.css": "/hasami-shogi/static/css/main.d62537de.chunk.css",
+    "main.js": "/hasami-shogi/static/js/main.280ff01a.chunk.js",
+    "main.js.map": "/hasami-shogi/static/js/main.280ff01a.chunk.js.map",
     "runtime-main.js": "/hasami-shogi/static/js/runtime-main.cdf36a9f.js",
     "runtime-main.js.map": "/hasami-shogi/static/js/runtime-main.cdf36a9f.js.map",
-    "static/js/2.b6fabe4d.chunk.js": "/hasami-shogi/static/js/2.b6fabe4d.chunk.js",
-    "static/js/2.b6fabe4d.chunk.js.map": "/hasami-shogi/static/js/2.b6fabe4d.chunk.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/hasami-shogi/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.5a3b96bd.chunk.js": "/hasami-shogi/static/js/2.5a3b96bd.chunk.js",
+    "static/js/2.5a3b96bd.chunk.js.map": "/hasami-shogi/static/js/2.5a3b96bd.chunk.js.map",
     "index.html": "/hasami-shogi/index.html",
-    "precache-manifest.b69faba36883b452d6aa432b33b28ea0.js": "/hasami-shogi/precache-manifest.b69faba36883b452d6aa432b33b28ea0.js",
+    "precache-manifest.d7edd20434d45c3d55be7976198988cf.js": "/hasami-shogi/precache-manifest.d7edd20434d45c3d55be7976198988cf.js",
     "service-worker.js": "/hasami-shogi/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/hasami-shogi/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.b6fabe4d.chunk.js.LICENSE.txt": "/hasami-shogi/static/js/2.b6fabe4d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/hasami-shogi/static/media/logo.5d5d9eef.svg"
+    "static/css/2.47e06e2e.chunk.css.map": "/hasami-shogi/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.d62537de.chunk.css.map": "/hasami-shogi/static/css/main.d62537de.chunk.css.map",
+    "static/js/2.5a3b96bd.chunk.js.LICENSE.txt": "/hasami-shogi/static/js/2.5a3b96bd.chunk.js.LICENSE.txt",
+    "static/media/fuhyou.png": "/hasami-shogi/static/media/fuhyou.fb902af7.png",
+    "static/media/tokin.png": "/hasami-shogi/static/media/tokin.473b2150.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cdf36a9f.js",
-    "static/js/2.b6fabe4d.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a20fd110.chunk.js"
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.5a3b96bd.chunk.js",
+    "static/css/main.d62537de.chunk.css",
+    "static/js/main.280ff01a.chunk.js"
   ]
 }
