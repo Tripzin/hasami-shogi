@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hasami-shogi/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hasami-shogi/static/js/main.8c052cfa.chunk.js",
+    "main.js.map": "/hasami-shogi/static/js/main.8c052cfa.chunk.js.map",
+    "runtime-main.js": "/hasami-shogi/static/js/runtime-main.cdf36a9f.js",
+    "runtime-main.js.map": "/hasami-shogi/static/js/runtime-main.cdf36a9f.js.map",
+    "static/js/2.b6fabe4d.chunk.js": "/hasami-shogi/static/js/2.b6fabe4d.chunk.js",
+    "static/js/2.b6fabe4d.chunk.js.map": "/hasami-shogi/static/js/2.b6fabe4d.chunk.js.map",
+    "index.html": "/hasami-shogi/index.html",
+    "precache-manifest.4c3bb86cda57b99ef4072d17eeb6c5db.js": "/hasami-shogi/precache-manifest.4c3bb86cda57b99ef4072d17eeb6c5db.js",
+    "service-worker.js": "/hasami-shogi/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hasami-shogi/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b6fabe4d.chunk.js.LICENSE.txt": "/hasami-shogi/static/js/2.b6fabe4d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hasami-shogi/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdf36a9f.js",
+    "static/js/2.b6fabe4d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8c052cfa.chunk.js"
+  ]
+}
