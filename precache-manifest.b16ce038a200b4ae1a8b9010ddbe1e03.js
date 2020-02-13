@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b50c3ce890f5e53ee4d01953c91217a",
+    "revision": "ddf204cf3633814055a37e1920d33d43",
     "url": "/hasami-shogi/index.html"
   },
   {
