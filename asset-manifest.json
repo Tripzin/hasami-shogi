@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hasami-shogi/static/css/main.8da40df3.chunk.css",
-    "main.js": "/hasami-shogi/static/js/main.aa69e879.chunk.js",
-    "main.js.map": "/hasami-shogi/static/js/main.aa69e879.chunk.js.map",
+    "main.js": "/hasami-shogi/static/js/main.30e4ff23.chunk.js",
+    "main.js.map": "/hasami-shogi/static/js/main.30e4ff23.chunk.js.map",
     "runtime-main.js": "/hasami-shogi/static/js/runtime-main.cdf36a9f.js",
     "runtime-main.js.map": "/hasami-shogi/static/js/runtime-main.cdf36a9f.js.map",
     "static/css/2.47e06e2e.chunk.css": "/hasami-shogi/static/css/2.47e06e2e.chunk.css",
     "static/js/2.e09b6664.chunk.js": "/hasami-shogi/static/js/2.e09b6664.chunk.js",
     "static/js/2.e09b6664.chunk.js.map": "/hasami-shogi/static/js/2.e09b6664.chunk.js.map",
     "index.html": "/hasami-shogi/index.html",
-    "precache-manifest.a1011f2089442f24a7bad728c5769f2c.js": "/hasami-shogi/precache-manifest.a1011f2089442f24a7bad728c5769f2c.js",
+    "precache-manifest.8a8fb36d4de6bd98c4bd6dcbee02fc4d.js": "/hasami-shogi/precache-manifest.8a8fb36d4de6bd98c4bd6dcbee02fc4d.js",
     "service-worker.js": "/hasami-shogi/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/hasami-shogi/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.8da40df3.chunk.css.map": "/hasami-shogi/static/css/main.8da40df3.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.e09b6664.chunk.js",
     "static/css/main.8da40df3.chunk.css",
-    "static/js/main.aa69e879.chunk.js"
+    "static/js/main.30e4ff23.chunk.js"
   ]
 }
