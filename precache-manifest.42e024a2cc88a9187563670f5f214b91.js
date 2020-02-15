@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "194297d2517cefc7ef08f31d2ba57c68",
+    "revision": "d4457d76b8605e4fe1924e7cde92768f",
     "url": "/hasami-shogi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hasami-shogi/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "d4734a71d66c63c0858a",
+    "revision": "93a87532adb4995395e3",
     "url": "/hasami-shogi/static/css/main.8da40df3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hasami-shogi/static/js/2.e09b6664.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4734a71d66c63c0858a",
-    "url": "/hasami-shogi/static/js/main.fff9359a.chunk.js"
+    "revision": "93a87532adb4995395e3",
+    "url": "/hasami-shogi/static/js/main.cea9dc8c.chunk.js"
   },
   {
     "revision": "4c10e8a2367ad4b9ae15",
